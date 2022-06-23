@@ -266,7 +266,7 @@ h3 {
     height: 100%;
     width: 100%;
     position: absolute;
-    bottom: -400px;
+    bottom: -460px;
     left: 0;
     background: #DBE6FD;
     transition: 0.5s;
@@ -287,7 +287,6 @@ h3 {
     font-weight: 600;
     font-size: 26px;
     bottom: 0;
-    position: relative;
 }
 
 @media only screen and (max-width: 700px) {
@@ -296,7 +295,7 @@ h3 {
         height: 115%;
         width: 100%;
         position: absolute;
-        bottom: -400px;
+        bottom: -390px;
         left: 0;
         background: #DBE6FD;
         transition: 0.5s;
